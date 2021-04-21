@@ -1,0 +1,12 @@
+body {
+    display: grid;
+}
+
+.card {
+    width: 18rem;
+    justify-self: right;
+}
+
+button {
+    justify-self: center;
+}
